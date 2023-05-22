@@ -12,14 +12,17 @@
   
   
 ### Hi there, I'm Helen 👋
+  
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   
-🌱 I’m currently learning Java (Spring Boot) /n
+🌱 I’m currently learning Java (Spring Boot)
+
 🔭 I’m currently working on something impressive
 
   
   
-### 💚 Languages and Tools:
+### 🛠️ Languages and Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -30,12 +33,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   </div>
   
-  
-  
-### :unicorn: About me: 
-  I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L66613&layout=compact&theme=vision-friendly-dark)](https://github.com/L66613/github-readme-stats)
 
-[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=L66613)](http://github.com/L66613/github-readme-stats)
