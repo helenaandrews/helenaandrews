@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=google&logoColor=white" alt="GMAIL Badge"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=L66613&style=flat-square&color=blue" alt=""/>
+  
 ### Hi there, I'm Helen 👋
 
 🌱 I’m currently learning Java (Spring Boot)
@@ -19,4 +21,4 @@
 
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=L66613)](http://github.com/L66613/github-readme-stats)
 
-[!Helen's GitHub stats](http://github-readme-stats.vercel.app/api?username=L66613)](http://github.com/L66613/github-readme-stats)
+[![Helen's GitHub stats](http://github-readme-stats.vercel.app/api?username=L66613)](http://github.com/L66613/github-readme-stats)
