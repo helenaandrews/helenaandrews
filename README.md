@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/mwlite/in/elena-b-4111a31b3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/elenab13136@gmail.com">
+  <a href="https://mail.google.com/mail/elenab13136@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=google&logoColor=white" alt="GMAIL Badge"/>
 </div>
   
