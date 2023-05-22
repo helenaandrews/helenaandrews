@@ -38,4 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L66613&layout=compact&theme=vision-friendly-dark)](https://github.com/L66613/github-readme-stats)
 
-[![Helen's GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=L66613)](http://github.com/L66613/github-readme-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=L66613)](http://github.com/L66613/github-readme-stats)
