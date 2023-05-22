@@ -1,15 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/mwlite/in/elena-b-4111a31b3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="elenab13136@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=google&logoColor=white" alt="GMAIL Badge"/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=L66613&style=flat-square&color=blue" alt=""/>
   
 ### Hi there, I'm Helen 👋
 
