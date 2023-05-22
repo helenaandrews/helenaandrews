@@ -9,11 +9,16 @@
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=google&logoColor=white" alt="GMAIL Badge"/>
 </div>
   
+  
+  
 ### Hi there, I'm Helen 👋
 
+  
 🌱 I’m currently learning Java (Spring Boot) /n
 🔭 I’m currently working on something impressive
 
+  
+  
 ### 💚 Languages and Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,10 +30,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   </div>
   
+  
+  
 ### :unicorn: About me: 
   I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L66613&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L66613&layout=compact&theme=vision-friendly-dark)](https://github.com/L66613/github-readme-stats)
 
 [![Helen's GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=L66613)](http://github.com/L66613/github-readme-stats)
