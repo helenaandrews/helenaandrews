@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/mwlite/in/elena-b-4111a31b3">
