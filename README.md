@@ -16,9 +16,9 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   
-🌱 I’m currently learning Java (Spring Boot)
+🌱 I’m currently learning Java (Deploy)
 
-🔭 I’m currently working on something impressive
+🔭 Working on something impressive
 
   
   
