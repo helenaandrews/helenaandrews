@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/mwlite/in/elena-b-4111a31b3">
+  <a href="www.linkedin.com/in/elena-a-andreichenko">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/elenab13136@gmail.com">
