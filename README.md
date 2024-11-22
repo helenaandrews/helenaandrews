@@ -16,7 +16,7 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   
-🌱 I’m currently learning Java (Deploy)
+🌱 I’m currently learning Java (Deploy) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
 
 🔭 Working on something impressive
 
@@ -34,5 +34,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </div>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenaandrews&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenaandrews&layout=compact)](https://github.com/helenaandrews/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helenaandrews&theme=solarized_dark)
