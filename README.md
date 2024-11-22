@@ -34,6 +34,4 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </div>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenaandrews&layout=compact)](https://github.com/helenaandrews/github-readme-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helenaandrews&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenaandrews&layout=compact&theme=dark)](https://github.com/helenaandrews/github-readme-stats)
